@@ -1,1 +1,1 @@
-git push
+git pull
